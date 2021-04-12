@@ -1,0 +1,10 @@
+#Django
+1.python -v
+2.sudo apt install python3-venv
+3.mkdir my_django_app
+4.cd my_django_app
+5.python3 -m venv venv
+6.source venv/bin/activate
+7.pip3 install django
+8.django-admin startproject mydjangoapp
+9.
